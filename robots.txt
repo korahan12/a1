@@ -1,0 +1,8 @@
+User-agent: *
+
+Sitemap: https://korahan12.github.io/a1/sitemap.xml
+Sitemap: https://korahan12.github.io/a1/a1_1.xml
+Sitemap: https://korahan12.github.io/a1/a1_2.xml
+Sitemap: https://korahan12.github.io/a1/a1_3.xml
+Sitemap: https://korahan12.github.io/a1/a1_4.xml
+Sitemap: https://korahan12.github.io/a1/a1_5.xml
